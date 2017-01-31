@@ -1,0 +1,24 @@
+{
+  "name": "scraping-with-casperjs",
+  "version": "1.0.0",
+  "description": "[casperjs](http://casperjs.org/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scrape": "node_modules/casperjs/bin/casperjs ./script.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konojunya/scraping-with-casperjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konojunya/scraping-with-casperjs/issues"
+  },
+  "homepage": "https://github.com/konojunya/scraping-with-casperjs#readme",
+  "dependencies": {
+    "casperjs": "^1.1.3"
+  }
+}
